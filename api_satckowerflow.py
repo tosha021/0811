@@ -116,3 +116,7 @@ create_image_in_id(papka_id_image)
 
 #
 pprint.pprint(1)
+pprint.pprint(1)
+pprint.pprint(1)
+pprint.pprint(1)
+
